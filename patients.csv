@@ -1,0 +1,80 @@
+S. No,MR No,Name,Gender,Marital Status,Age,,Occupation,Residential Status,Address,Monthly income of family,Contact,Education,"Body mass indus
+(Kg/m2)","Age of Onset
+(yrs)","Duration of disease
+(Month)",Rate of progression,The initial site of hair loss,Family History,"Daily sun expose
+(hr)",Grade of alopecia,Medication ,,serum vitamin D level,interpretation ,,,
+1,2180344,Bilal Ahmed ,Male ,Married,23,Indoor,Student ,Urban,,>50K,,Graduation,21.5,20,36,,Frontal,Yes,1-6,Stage III (A),Nil,,44.1,Insufficiency,,,
+2,11130,Salman Ahmed,Male ,Unmarried ,19,Indoor,Student ,Urban,,>50k,,Higher Secondary,25,17,24,,Frontal,Yes,1-6,Stage II (A),Nil,,50.2,Insufficiency,,Stage I,
+3,2668994,Ali Syed,Male ,Unmarried ,18,Indoor,Student ,Urban,,>50k,,Higher Secondary,19.5,17,12,,Frontal,No,1-6,Stage II (A),Nil,,82,Sufficiency,,Stage II,
+4,2142359,RaoAqib Ali,Male ,Married,25,Indoor,Engineer,Urban,,>50k,,Graduation,20.3,24,12,,Frontal,No,1-6,Stage III (A),Nil,,50.8,Insufficiency,,stage II A,4
+5,2142192,M. Abu Bakar,,Unmarried ,27,Indoor,Engineer,Urban,,>50k,,Graduation,27.9,27,5,,Vertex,No,1-6,Stage III (V),Nil,,47.2,Insufficiency,,stage II V,
+6,1060,M. Arsalan,,Unmarried ,24,Indoor,IT,Urban,,,,Graduation,25,22,24,,Temporal,Yes,<1,Stage III,Yes,Topical Minoxidi Spray,60.4,Insufficiency,,Stage III,3
+7,5367,Shah Fahad,,Unmarried ,21,Outdoor,,Rural,,20-50k,,Graduation,24,19,36,,Vertex,Yes,1-6,Stage III (V),Nil,,32.6,Insufficiency,,stage III A,9
+8,41750,M. Adil,,Unmarried ,23,Indoor,,Urban,,20-50k,,Higher Secondary,26.2,22,12,,Temporal,Yes,1-6,Stage II,Nil,,76,Sufficiency,,stage III V,3
+9,,Rana Irtiza,,Married,24,Indoor,,Urban,,>50k,,Graduation,35.4,22,24,,Temporal,Yes,1-6,Stage III,Nil,,37,Insufficiency,,stage IV,1
+10,172294,M. Arsalan,,Unmarried ,20,Indoor,Student ,Rural,,,,Higher Secondary,17.8,20,2,,Temporal,No,1-6,Stage II (A),Nil,,186,Sufficiency,,stage IV A,2
+11,3715225,Rajab Ali,,Married,28,Indoor,Phone Operator,Urban,,20-50k,,Higher Secondary,26.2,27,12,,Frontal,No,<1,Stage IV,Nil,,104.2,Sufficiency,,stage V,
+12,143343,M. Masab,,Married,25,Outdoor,Navy,Urban,,,,Higher Secondary,25.7,20,60,,Frontal,No,1-6,Stage IV,Nil,,23.2,Deficiency,,stage V A,
+13,231728,Uzair,,Unmarried ,29,Indoor,,Urban,,>50k,,Graduation,25,27,24,,Vertex,Yes,<1,Stage IV,Nil,,43.8,Insufficiency,,stage VI,
+14,,M Zeeshan,,Unmarried ,27,Indoor,u,Urban,,,,Graduation,23,25,30,,Temporal,No,<1,Stage IV (A),Yes,minxid Hair Spary,30.5,Insufficiency,,stage VII,
+15,121732,Arbab Shah,,Unmarried ,24,Indoor,Doctor,Urban,,>50k,,Graduation,26.3,19,60,,Frontal,Yes,<1,Stage IV (A),Nil,,22,Deficiency,,,
+16,2171860,Umair,,Unmarried ,24,Indoor,u,Urban,,,,Graduation,23.5,24,6,,Temporal,No,<1,Stage III,Nil,,53.7,Insufficiency,,,
+17,219285,Fahad,,Unmarried ,29,Indoor,Doctor,Urban,,>50k,,Graduation,22,26,36,,Temporal,No,1-6,Stage IV,Nil,,32,Insufficiency,,,
+18,2183776,Sayyam,,Unmarried ,25,Indoor,,Urban,,>50k,,Graduation,24.2,22,36,,Temporal,Yes,1-6,Stage III,Nil,,93.3,Sufficiency,,,
+19,72814,Sajid Bilal,,Unmarried ,21,Indoor,Student ,Urban,,>50k,,Higher Secondary,20.1,20,12,,Temporal,No,<1,Stage III (V),Nil,,65.9,Insufficiency,,,
+20,11343,M. Faheem,,Unmarried ,26,Indoor,,Urban,,>50k,,Higher Secondary,23.7,26,8,,Temporal,No,<1,Stage III,Nil,,54.7,Insufficiency,,,
+21,2180036,Usama,,Unmarried ,22,Outdoor,Navy Officer,Urban,,>50k,,Graduation,27,22,10,,Frontal,Yes,1-6,Stage V,Nil,,25,Insufficiency,,,
+22,221243,Danish,,Unmarried ,19,Outdoor,u,Urban,,>50k,,Higher Secondary,22,17,23,,Vertex,Yes,1-6,Stage V,Nil,,18,Deficiency,,,
+23,2184864,Sabir Iqbal,,Unmarried ,22,Indoor,Student ,Urban,,>50k,,Higher Secondary,24,21,12,,Frontal,No,<1,Stage III,Nil,,72,Insufficiency,,,
+24,107913,Saad Ahmed,,Unmarried ,25,Indoor,u,Urban,,20-50k,,Secondary,23,23,28,,Frontal,No,<1,Stage IV,Nil,,42.3,Insufficiency,,,
+25,141936,Hamza Arif,,Unmarried ,23,Indoor,,Urban,,20-50k,,Higher Secondary,28,21,24,,Vertex,No,1-6,Stage III (V),Nil,,39.6,Insufficiency,,,
+26,212132,Hassan Syed,,Married,30,Outdoor,,Rural,,>50k,,Graduation,30,28,29,,Temporal,No,>6,Stage IV,Nil,,24.8,Deficiency,,,
+27,19281,Haseeb Abbas,,Unmarried ,26,Indoor,,Urban,,20-50k,,Graduation,24.2,25,17,,Vertex,No,<1,Stage III (V),Nil,,32.2,Insufficiency,,,
+28,201232,Raza Ali,,Unmarried ,24,Indoor,,Urban,,20-50k,,Higher Secondary,21.4,23,13,,Temporal,Yes,<1,Stage IV,Nil,,62,Insufficiency,,,
+29,10204,M. Irfan,,Married,29,Outdoor,,Urban,,<20k,,Primary,20.8,29,10,,Vertex,No,>6,Stage III (V),Nil,,78,Sufficiency,,,
+,43545,Qasir Abbas,,Married,28,Indoor,,Urban,,>50k,,Graduation,25,23,23,,Vertex,Yes,1-6,Stage IV,Nil,,61.5,Insufficiency,,,
+,108729,M. Rafique,,Married,30,Outdoor,,Urban,,20-50k,,Primary,27,22,60,,Vertex,No,>6,Stage V,Yes,,22.7,Deficiency,,,
+,,Abdul rehman,,Married,30,Outdoor,,Urban,,>50k,, Illitrate,28,29,12,,Temporal,No,>6,Stage III,Nill,,75.2,Sufficiency,,,
+,,buland bakht,,Unmarried ,19,Outdoor,,Urban,,>50k,,Higher Secondary,22,18,14,,Vertex,Yes,>6,Stage V,Nill,,23.2,Deficiency,,,
+,,Laiq Zaman,,Married,27,Outdoor,,Urban,,>50k,,Graduation,26,24,34,,Temporal,No,>6,Stage III (A),Nill,,79,Sufficiency,,,
+,,Zubair Ahmed,,Married,30,Indoor,,Rural,,20-50k,,Secondary,24,27,38,,Vertex,Yes,<1,Stage V,Nill,,35.9,Insufficiency,,,
+,,Safwan Ishaq,,Unmarried ,19,Indoor,,Urban,,>50k,,Higher Secondary,27,18,12,,Temporal,Yes,1-6,Stage III,Nill,,38.7,Insufficiency,,,
+S. No,MR No,Name,Gender,Marital Status,Age,Occupation,occupation ,Residential Status,Address,Monthly income of family,Contact,Education,"Body mass indus
+(Kg/m2)","Age of Onset
+(yrs)","Duration of disease
+(Month)",Rate of progression,The initial site of hair loss,Family History,"Daily sun expose
+(hr)",Grade of alopecia,Medication ,serum vit D levels (nmol/L),interpretation,,
+1,2315,Syed Sajid Ali Rizvi,,Married,29,Engineer,Indoor,Urban,,>50K,,Graduation,30,,,,,,1-6,,,120,Sufficiency,,
+2,2181908,Tausef,,Unmarried,21,,Indoor,Urban,,,,Higher Secondary,18.3,,,,,,<1,,,57.1,Insufficiency,,Stage I
+3,1264,Hamza,,Married,24,,Indoor,Urban,,20-50k,,Higher Secondary,24,,,,,,1-6,,,80,Sufficiency,,Stage II
+4,99303,Saood Ahmed,,Unmarried,20,,Indoor,Urban,,20-50k,,Higher Secondary,21,,,,,,<1,,,42.3,Insufficiency,,stage II A
+5,28171,Adil,,Unmarried,18,,Indoor,Urban,,>50K,,Higher Secondary,24,,,,,,1-6,,,78.3,Sufficiency,,stage II V
+6,2131602,M.Zahid,,Married,28,,Indoor,Urban,,>50K,,Graduation,24.4,,,,,,>6,,,83.6,Sufficiency,,Stage III
+7,36318,Muneer,,Unmarried,22,,outdoor,Urban,,20-50k,,Secondary,20.1,,,,,,>6,,,92.3,Sufficiency,,stage III A
+8,175248,Hanifullah,,unmarried,19,,outdoor,urban,,20-50k,,Higher Secondary,20.1,,,,,,>6,,,68.3,Insufficiency,,stage III V
+9,161239,Ali abbas ,,Unmarried,19,,outdoor,Urban,,20-50k,,Secondary,23,,,,,,>6,,,117.9,Sufficiency,,stage IV
+10,11025,Ghulam Ahmed,,Unmarried,19,,Indoor,urban,,20-50k,,Secondary,24.2,,,,,,1-6h,,,163.5,Sufficiency,,stage IV A
+11,143123,M.Aslam,,Married,30,,outdoor,Urban,,20-50k,,Higher Secondary,27,,,,,,>6,,,46.1,Insufficiency,,stage V
+12,1892,saleem akhter,,Married,29,,Indoor,Urban,,20-50k,,Higher Secondary,24,,,,,,<1,,,94.4,Sufficiency,,stage V A
+13,17342,Saad,,Unmarried,26,,Indoor,Urban,,>50k,,Higher Secondary,24,,,,,,<1,,,81.3,Sufficiency,,stage VI
+14,2816,Nazar,,Unmarried,18,,Indoor,Urban,,>50k,,Higher Secondary,23,,,,,,1-6h,,,80,Sufficiency,,stage VII
+15,31423,Ashraf bilal,,Married,27,,outdoor,Rural,,<20k,,Primary,19,,,,,,>6h,,,96,Sufficiency,,
+16,21430,Tayyab,,Married,26,,Indoor,Rural,,20-50k,,Graduation,23,,,,,,<1h,,,137.2,Sufficiency,,
+17,11325,Shehzad,,Unmarried,23,,Indoor,Urban,,>50k,,Graduation,21.4,,,,,,1-6h,,,109.3,Sufficiency,,
+18,,,,,,,,,,,,,19.5,,,,,,,,,,,,
+19,,,,,,,,,,,,,,,,,,,,,,,,,
+20,,,,,,,,,,,,,,,,,,,,,,,,,
+21,,,,,,,,,,,,,,,,,,,,,,,,,
+22,,,,,,,,,,,,,,,,,,,,,,,,,
+23,,,,,,,,,,,,,,,,,,,,,,,,,
+24,,,,,,,,,,,,,,,,,,,,,,,,,
+25,,,,,,,,,,,,,,,,,,,,,,,,,
+26,,,,,,,,,,,,,,,,,,,,,,,,,
+27,,,,,,,,,,,,,,,,,,,,,,,,,
+28,,,,,,,,,,,,,,,,,,,,,,,,,
+29,,,,,,,,,,,,,,,,,,,,,,,,,
+
+
+
+
+,,,,,,,,,,,,,i,,,,,,,,,,,,
